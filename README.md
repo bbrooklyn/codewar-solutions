@@ -3,4 +3,4 @@
 <p>Solutions from the codewar challenges I have completed.</p>
 
 
-*These are not the best solutions. Some of them may be very bad.*
+*These are not the best solutions. Some of them may be very bad (sorry).*
